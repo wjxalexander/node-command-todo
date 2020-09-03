@@ -1,5 +1,8 @@
 {
   "name": "lesson1",
+  "bin": {
+    "t": "cli.js",
+  },
   "version": "0.0.1",
   "main": "index.js",
   "author": "j.wang",
